@@ -1,6 +1,6 @@
 import math
 import itertools
-print(" Búsqueda por la sección dorada.")
+print(" Búsqueda por la sección dorada. 123")
 
 interacciones = int(input("Introdusca la Cantidad de Interacciones: "))
 xi = int(input("Introdusca Xi: "))
